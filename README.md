@@ -1,5 +1,6 @@
 # Telegram-Cloudflare
-A way to use Telegram APIs within a server in Iran using Cloudflare Workers
+A way to use Telegram APIs within a server in Iran using Cloudflare Workers.
+
 This file contains very simple code, and you can develop and enhance it.
 
 
